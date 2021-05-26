@@ -6,14 +6,14 @@ The scripts are written in Python. The main objective is to build artifical neur
 
 Requirements to run the scripts:
 Python 3 is required to run the scripts.
-Install rips package using pip or download directly from [https://pypi.org/project/rips/](https://pypi.org/project/rips/)
-.CSV files containing database
-Open ResInsight and load the SMSPEC files after runnign Eclipse simulation.
-Connect Python with ResInsight. The detailed steps can be viewed here: [https://api.resinsight.org/en/latest/Installation.html](https://api.resinsight.org/en/latest/Installation.html)
+Install rips package using pip or download directly from [https://pypi.org/project/rips/](https://pypi.org/project/rips/)   
+.CSV files containing database  
+Open ResInsight and load the SMSPEC files after runnign Eclipse simulation.   
+Connect Python with ResInsight. The detailed steps can be viewed here: [https://api.resinsight.org/en/latest/Installation.html] (https://api.resinsight.org/en/latest/Installation.html)
 
 
 List of code scripts:
 
-ANN.py : script to load database, define ANN model, hyper-parameter optimizaiton, and training the ANN.
-GA.py : script for GA-SPM coupling to solve well control optimization problem to find optimal values of BHP to maximize NPV.
-ResInsight.py : script to fetch required reservoir data from ResInsight and export it into .csv files.
+ANN.py : script to load database, define ANN model, hyper-parameter optimizaiton, and training the ANN.  
+GA.py : script for GA-SPM coupling to solve well control optimization problem to find optimal values of BHP to maximize NPV.  
+ResInsight.py : script to fetch required reservoir data from ResInsight and export it into .csv files.  
