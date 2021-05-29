@@ -7,7 +7,7 @@ The scripts are written in Python. The main objective is to build artifical neur
 ## Requirements to run the scripts:
 - Python 3 is required to run the scripts.
 - Install rips package using pip or download directly from (https://pypi.org/project/rips/)   
-- .CSV files containing database  
+- Database file in .csv format  
 - Open ResInsight and load the SMSPEC files after runnign Eclipse simulation.   
 - Connect Python with ResInsight. The detailed steps can be viewed here: (https://api.resinsight.org/en/latest/Installation.html)
 
