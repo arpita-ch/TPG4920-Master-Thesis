@@ -14,7 +14,11 @@ The scripts are written in Python. The main objective is to build artifical neur
 
 ## List of code scripts:
 
-ProxyDevelopment-General.ipynb : script to load database, define ANN model, hyper-parameter optimizaiton, training the ANN, and blind test established ANN. 
-GAoptimizer.ipynb : script for GA-SPM coupling to solve well control optimization problem to find optimal values of BHP to maximize NPV.  
-NPV-Calculator.ipynb:script for NPV_Eclipse and NPV_SPM calculation for whole database.    
-ResInsight.py : script to fetch required reservoir data from ResInsight and export it into .csv files.   
+### 1. ProxyDevelopment-General.ipynb : 
+script to load database, define ANN model, hyper-parameter optimizaiton, training the ANN, and blind test established ANN. 
+### 2. GAoptimizer.ipynb : 
+script for GA-SPM coupling to solve well control optimization problem to find optimal values of BHP to maximize NPV.  
+### 3. NPV-Calculator.ipynb:
+script for NPV_Eclipse and NPV_SPM calculation for whole database.    
+### 4. ResInsight.py : 
+script to fetch required reservoir data from ResInsight and export it into .csv files.   
